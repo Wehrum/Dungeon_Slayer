@@ -1,0 +1,2 @@
+C:\Users\addic\Documents\GitHub\FirstGameInUnity\Real First Game\obj\Debug\UnityEditor.UI.csproj.AssemblyReference.cache
+C:\Users\addic\Documents\GitHub\FirstGameInUnity\Real First Game\obj\Debug\UnityEditor.UI.csproj.CoreCompileInputs.cache

@@ -1,0 +1,1 @@
+C:\Users\addic\Documents\GitHub\FirstGameInUnity\Real First Game\obj\Debug\Unity.RenderPipelines.Universal.Runtime.csproj.CoreCompileInputs.cache
